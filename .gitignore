@@ -1,14 +1,8 @@
 .log
 build/
-<<<<<<< HEAD
 .settings
-node_modules/
 .idea/
 .gradle
 .target
-
-=======
-node_modules/
 .idea/
-my_notes.txt
->>>>>>> 9b8a427dda9b8ce7a356d09cf50bb1fae05a0d46
+
