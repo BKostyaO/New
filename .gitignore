@@ -1,0 +1,8 @@
+.log
+build/
+.settings
+node_modules/
+.idea/
+.gradle
+.target
+
