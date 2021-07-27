@@ -5,4 +5,6 @@ build/
 gradle/
 target/
 .idea/
+.classpath
+.project
 pom.xml
