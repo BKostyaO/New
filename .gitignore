@@ -2,7 +2,7 @@
 build/
 .settings/
 .idea/
-.gradle
+gradle/
 target/
 .idea/
 pom.xml
